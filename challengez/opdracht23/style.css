@@ -1,0 +1,59 @@
+#rechterbovenhoek {
+    float: left;
+    height: 150px;
+    width: 150px;
+    background-color: rebeccapurple;
+  }
+ #middenboven {
+     float: left;
+     height: 150px;
+     width: 150px;
+     background-color: green;
+ }
+ #linkerbovenhoek {
+    float: left;
+    height: 150px;
+    width: 150px;
+    background-color: red;
+}
+#rechtermiddenhoek {
+    float: left;
+    height: 150px;
+    width: 150px;
+    background-color: #C0C0FF;
+  }
+ #midden {
+     float: left;
+     height: 150px;
+     width: 150px;
+     background-color: #C0C0FF;
+ }
+ #linkermiddenhoek {
+    float: left;
+    height: 150px;
+    width: 150px;
+    background-color: rgb(34, 0, 255);
+}
+#rechteronderhoek {
+    float: left;
+    height: 150px;
+    width: 150px;
+    background-color: #158215;
+  }
+ #middenonder {
+     float: left;
+     height: 150px;
+     width: 150px;
+     background-color: #c00000;
+ }
+ #linkeronderhoek {
+    float: left;
+    height: 150px;
+    width: 150px;
+    background-color: #FF00FF;
+}
+
+#container {
+    margin-top: 1%;
+    margin-right: 70%;
+}
